@@ -1,0 +1,8 @@
+<phpunit colors="true">
+   <testsuites>
+      <testsuite name="My Test Suite">
+         <directory>application/tests/controllers</directory>
+         <file>application/tests/controllers/Admins_test.php</file>
+      </testsuite>
+   </testsuites>
+</phpunit>
